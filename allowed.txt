@@ -1,3 +1,4 @@
 0.0.0.0 oraclecloud.com
 0.0.0.0 cloud.oracle.com
 0.0.0.0 video.corriere.it
+0.0.0.0 corriereobjects.it
