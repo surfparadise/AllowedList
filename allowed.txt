@@ -3,4 +3,3 @@
 0.0.0.0 video.corriere.it
 0.0.0.0 corriereobjects.it
 0.0.0.0 vmware.com
-0.0.0.0 corriereobjects.it
